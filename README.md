@@ -1,6 +1,10 @@
 # snake
 基于 Typescript + Less 的贪吃蛇小案例
 
+## 演示
+
+> [https://haveadate.gitee.io/snake/](https://haveadate.gitee.io/snake/)
+
 ## 初始化
 
 ```shell
